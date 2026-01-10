@@ -1,5 +1,7 @@
 # 图标数据服务 Iconify Icon
 
+[![smithery badge](https://smithery.ai/badge/xiaobenyang-com/iconify-icon)](https://smithery.ai/server/xiaobenyang-com/iconify-icon)
+
 提供访问Iconify超过20万开源矢量图标的MCP服务器，支持图标集浏览、搜索及多框架使用示例获取。
 Provide access to Iconify's MCP server with over 200,000 open-source vector ICONS, supporting icon set browsing, searching, and obtaining multi-framework usage examples.## 工具列表 Tool List
 
